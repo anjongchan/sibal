@@ -34,3 +34,5 @@ blah blah
 * Soyoon Jo
 * Jinhyuk Choi
 * Jongchan An
+## Picutre
+![picture](./picture/dsfs.jpg)
