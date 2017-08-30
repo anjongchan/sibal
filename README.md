@@ -35,4 +35,4 @@ blah blah
 * Jinhyuk Choi
 * Jongchan An
 ## Picutre
-![picture](./picture/dsfs.jpg)
+![picture](./picture/dsfs.jpg =100*20)
